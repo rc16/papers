@@ -1,6 +1,8 @@
 Author:
-John Smith
-Ruth Costello
+
+John Smith, UCL
+Ruth Costello, University of Manchester
+
 
 Abstract:
 Short summary u.
