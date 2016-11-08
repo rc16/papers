@@ -1,6 +1,6 @@
 Author:
-Ruth Costello
 John Smith
+Ruth Costello
 
 Abstract:
 Short summary u.
