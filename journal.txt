@@ -2,6 +2,9 @@ Author:
 Ruth Costello
 John Smith
 
+Abstract:
+Short summary u.
+
 Title:
 SOA measurements in lab x
 
